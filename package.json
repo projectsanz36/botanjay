@@ -1,12 +1,12 @@
 {
-  "name": "gura-botmd",
+  "name": "Sanz-BotMD",
   "version": "1.0.0",
   "description": "Simple whatsapp bot with multi device.",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
   },
-  "author": "Lexxy Official",
+  "author": "SanzOfficial",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
